@@ -37,48 +37,32 @@ npm install
 '''bash
 npm start
 
-# Data Structure
+## Data Structure
 The tool includes pre-configured datasets for:
+- **Hiring/Recruiting.**
+- **Loan Approvals.**
+- **Healthcare Diagnostics.**
+- **Social Media Moderation.**
+- **Criminal Justice.**
 
-Hiring/Recruiting
+## Each dataset has:
+- **Bias scores by attribute.**
+- **Affected demographic groups.**
+- **Recommended mitigation strategies.**
 
-Loan Approvals
+## Usage
+1. Select a dataset and model from the dropdown menus
+2. Navigate between tabs to view:
+- **Dashboard overview.**
+- **Detailed dataset analysis.**
+- **Model fairness metrics.**
+- **Mitigation recommendations.**
 
-Healthcare Diagnostics
-
-Social Media Moderation
-
-Criminal Justice
-
-Each dataset has:
-
-Bias scores by attribute
-
-Affected demographic groups
-
-Recommended mitigation strategies
-
-Usage
-Select a dataset and model from the dropdown menus
-
-Navigate between tabs to view:
-
-Dashboard overview
-
-Detailed dataset analysis
-
-Model fairness metrics
-
-Mitigation recommendations
-
-# Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a PR for:
-
-New dataset templates
-
-Additional fairness metrics
-
-Improved visualization options
+- **New dataset templates.**
+- **Additional fairness metrics.**
+- **Improved visualization options.**
 
 ## License
 MIT © [Siyamthanda Dlakavu]
