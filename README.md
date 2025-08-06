@@ -1,4 +1,4 @@
-# AI Bias Audit Toolkit
+# Bias Audit Toolkit
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![Chart.js](https://img.shields.io/badge/Chart.js-3.9.1-green)
@@ -26,8 +26,8 @@ A dashboard for detecting and mitigating biases in machine learning datasets and
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ai-bias-audit-tool.git
-cd ai-bias-audit-tool
+git clone https://github.com/your-username/bias-audit-report.git
+cd bias-audit-report
 
 2. Install dependencies:
 ```bash
