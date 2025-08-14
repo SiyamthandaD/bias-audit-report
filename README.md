@@ -30,11 +30,11 @@
    git clone [repository-url]
 Install dependencies:
 
-bash
+2. bash
 npm install
 Run the development server:
 
-bash
+3. bash
 npm start
 Usage
 Upload your dataset or connect to your algorithm
