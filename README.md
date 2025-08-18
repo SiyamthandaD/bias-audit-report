@@ -1,8 +1,10 @@
 # Bias Audit Report
 
+AI Bias Audit Tool that detects biases in datasets and ML models. It analyses data fairness, model disparities, and suggests mitigation strategies. Built with React & Chart.js for ethical AI development.
+
 🚀 **Live Demo:** https://bias-audit-report.netlify.app/
 
-## Features
+## ✨ Features
 
 - Interactive bias analysis interface
 - Comprehensive report generation
@@ -28,7 +30,7 @@
 1. Clone the repository:
    ```bash
    git clone [repository-url]
-Install dependencies:
+## Install dependencies:
 
 2. bash
 npm install
@@ -36,32 +38,28 @@ Run the development server:
 
 3. bash
 npm start
-Usage
-Upload your dataset or connect to your algorithm
 
-Configure the audit parameters
+## Usage
+* Upload your dataset or connect to your algorithm.
+* Configure the audit parameters.
+* Generate and review the bias report.
+* Export results as needed.
 
-Generate and review the bias report
-
-Export results as needed
-
-Contributing
+## Contributing
 Contributions are welcome! Please follow these steps:
 
-Fork the project
+## Fork the project
+* Create your feature branch (git checkout -b feature/AmazingFeature).
+* Commit your changes (git commit -m 'Add some amazing feature').
+* Push to the branch (git push origin feature/AmazingFeature).
+* Open a Pull Request.
 
-Create your feature branch (git checkout -b feature/AmazingFeature)
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Commit your changes (git commit -m 'Add some amazing feature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-License
-[Specify your license here, e.g., MIT, Apache 2.0]
-
-Acknowledgements
+## Acknowledgements
 [List any inspirations, code references, or acknowledgements]
 
 [Mention any team members or contributors]
+
+<div align="center"> <p>Built with ❤️ by Siyamthanda Dlakavu</p>
