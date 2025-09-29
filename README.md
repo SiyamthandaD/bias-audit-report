@@ -47,12 +47,12 @@ https://bias-audit-report.netlify.app/
    npm install
    # or
    yarn install
-* Start the development server
+* Start the development server:
    ```bash
    npm install
    # or
    yarn install
-* Open your browser
+* Open your browser:
 Navigate to *http://localhost:3000* to view the application
 
 ## 📖 How to Use
