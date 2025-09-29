@@ -2,6 +2,9 @@
 AI Bias Audit Tool for detecting and visualizing biases in datasets and machine learning models.
 Empowering ethical AI development through comprehensive fairness analysis.
 
+## 🖥️ Home Page Preview
+<img width="1900" height="912" alt="image" src="https://github.com/user-attachments/assets/d0524331-27db-4a00-9716-64af2790ab8d" />
+
 ## 🚀 **Experience the tool live**
 https://bias-audit-report.netlify.app/
 
@@ -60,18 +63,15 @@ Navigate to *http://localhost:3000* to view the application
   - Upload your dataset in supported formats (CSV, JSON)
   - Connect directly to your ML model API.
   - Configure data schema and protected attributes.
-
 * Audit Configuration
   - Select bias metrics (Disparate Impact, Statistical Parity, etc.)
   - Define protected groups and attributes.
   - Set fairness thresholds and parameters.
-
 * Analysis & Reporting
   - Run comprehensive bias analysis.
   - Review interactive visualizations.
   - Generate detailed audit reports.
   - Export results for further analysis.
-
 * Mitigation Strategies
   - Receive actionable recommendations.
   - Implement bias mitigation techniques.
