@@ -124,7 +124,7 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
    git push origin feature/amazing-feature
 * Open a Pull Request
 
-### Development Guidelines
+## Development Guidelines
 * Follow React best practices and hooks conventions.
 * Ensure all tests pass before submitting PRs.
 * Update documentation for new features.
