@@ -113,7 +113,7 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 
 ## Contribution Workflow
 * Fork the repository.
-* Create a feature branch.
+* Create a feature branch
    ```bash
    git checkout -b feature/amazing-feature
 * Commit your changes
